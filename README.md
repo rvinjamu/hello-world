@@ -11,3 +11,5 @@ My plan for the next week is :
 " and simultenously go thru material" 
  /videos 
  /shortfilms 
+ /writeups
+ /wiki pages
