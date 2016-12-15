@@ -7,5 +7,12 @@ My plan for the next week is :
 > Go through OSGI notes. 
 > Go through Equninox platform documentation.
 > Work on the project.
-
-onlinetraining 
+ - onlinetraining 
+and simultenously go thru material, 
+ /videos 
+ /shortfilms 
+ /writeups
+ /wiki pages
+ /
+wikipedia /Confluence pages
+'intranet material' 
