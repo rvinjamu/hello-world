@@ -15,3 +15,4 @@ My plan for the next week is :
  /wiki pages
  /
 wikipedia /Confluence pages
+'intranet material' 
