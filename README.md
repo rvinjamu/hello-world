@@ -13,4 +13,5 @@ My plan for the next week is :
  /shortfilms 
  /writeups
  /wiki pages
-wikipedia 
+ /
+wikipedia /Confluence pages
