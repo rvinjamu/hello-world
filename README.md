@@ -8,3 +8,6 @@ My plan for the next week is :
 > Go through Equninox platform documentation.
 > Work on the project.
 
+" and simultenously go thru material" 
+ /videos 
+ /shortfilms 
